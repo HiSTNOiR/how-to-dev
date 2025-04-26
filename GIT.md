@@ -1,8 +1,8 @@
 # HOW TO GIT
 
-Contents:
-
-- [How to create a new git repo (using gh in the CLI)](#how-to-create-a-new-git-repo-using-gh-in-the-cli)
+| HOW TO ...                                                                                       | DATE ADDED |
+| ------------------------------------------------------------------------------------------------ | ---------- |
+| [create a new git repo (using gh in the CLI)](#how-to-create-a-new-git-repo-using-gh-in-the-cli) | 2025 04 27 |
 
 ---
 
